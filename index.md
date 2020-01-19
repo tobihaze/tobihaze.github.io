@@ -1,7 +1,7 @@
+![プロフィール画像](bmNxfuKw_400x400.jpg)
 
 # About
 ポートフォリオつくるぞー。
-まだ言えないけどやりたいことあるよ。
 
 ## Profile
 - aketi tobihaze
