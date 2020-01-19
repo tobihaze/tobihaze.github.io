@@ -9,27 +9,22 @@
 - 鉄砲、忠誠
 
 
-# 見出し1
-## 見出し2
-### 見出し3
-本文です
-
-改行されない文章です
-改行されない文章です
-
-改行された文章です  
-改行された文章です
-
-段落です
-
 [N予備トップページのリンクです](https://nnn.ed.nico)
 
-順序なしリスト
-- 要素1
-- 要素2
-- 要素3
 
-順序つきリスト
-1. 要素1
-1. 要素2
-1. 要素3
+# Skills
+使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
+- GitHub Pages
+- markdown
+- Javascript,Node.js
+
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub](https://github.com/tobihaze)
+
+# Contact
+連絡先を書きましょう。
+- [Twitter](https://twitter.com/tobihaze217_bot)
+
+# History
+- 斎藤道三,朝倉義景,足利義昭,ノッブ
